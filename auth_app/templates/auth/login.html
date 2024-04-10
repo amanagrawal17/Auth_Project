@@ -1,0 +1,17 @@
+{% extends 'layouts/app.html' %}
+{% block content %}
+
+<form method="POST" novalidate>
+	{% csrf_token %}
+	<h2>Login</h2>
+	{{form.as_p}}
+	<input type="submit" value="Login" />
+	<p><a href="{% url 'password_reset' %}">Forgotten  password?</a></p>
+	{% load socialaccount %}
+    <p><a href="{% provider_login_url 'google' %}?next=/"> Login with Google</a></p>
+	<p>Don't have an account? <a href="{%url 'register' %}">Register</a></p>
+</form>
+
+
+
+{% endblock%}

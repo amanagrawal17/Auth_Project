@@ -1,0 +1,97 @@
+[33mcommit f6a20c6e14b2f354dc9993eadc8a79f6b3359691[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Tue Apr 9 17:40:55 2024 +0530
+
+    Updated the chnages
+
+[33mcommit bd6297fd92e90e0d9e676f47259d5feaf6312646[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Wed Mar 13 17:49:03 2024 +0530
+
+    commit
+
+[33mcommit fad0b54146b9aec44c1426708c352a32c895c5ca[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Tue Mar 12 18:48:39 2024 +0530
+
+    push notification done
+
+[33mcommit 25afd15be8f18affe3cb449b86ce503bf8e092eb[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Mon Mar 11 17:15:52 2024 +0530
+
+    done the real time notification
+
+[33mcommit b1ae08897f59271e687316e0bb30ec379f4e4463[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Wed Mar 6 17:17:24 2024 +0530
+
+    done the verification email after registration
+
+[33mcommit b7ca24408113a49a9a2e13e719ff389d57d7456a[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Mon Feb 26 15:17:05 2024 +0530
+
+    Done the encryption and decryption
+
+[33mcommit b2a81c67b414ea9766c2cd1ca1bcc23da22730d7[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Thu Feb 22 12:43:49 2024 +0530
+
+    password Chnage Section is done in Profile page
+
+[33mcommit 84eac27b6b252d33657dc0e87c9854219f797497[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Wed Feb 21 11:30:08 2024 +0530
+
+    update profile and logout section done
+
+[33mcommit 9ac9edc1f7a12977b384ea1a3894b78010cbe589[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Mon Feb 19 13:10:33 2024 +0530
+
+    forget password update without encrypt
+
+[33mcommit 774688d228c4d3207551b0a46fed7be912f413cc[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Fri Feb 16 16:55:13 2024 +0530
+
+    forget password
+
+[33mcommit 047363bc206e690c227512a3d941cc15139040da[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Thu Feb 15 14:49:02 2024 +0530
+
+    done the task of encrypted password,username,
+    checking at the login page
+
+[33mcommit 083d94747b23e3383b9171166fedc3c9bf7a9a3c[m
+Merge: 9cfd5e5 0951709
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Tue Feb 13 12:54:04 2024 +0530
+
+    Merge branch 'master' of github.com:amanagrawal17/Auth_Project
+
+[33mcommit 9cfd5e55695bd03b3725b88dd34be50eea0ef921[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Tue Feb 13 12:43:21 2024 +0530
+
+    updateded the encrypt fuction outside
+
+[33mcommit 095170954361602c21227e527c5f51431352d42f[m
+Author: Aman Agrawal <91116342+amanagrawal17@users.noreply.github.com>
+Date:   Thu Feb 8 12:26:30 2024 +0530
+
+    Update README.md
+
+[33mcommit b97485f9c74fdc488133dc58874bfa3b73691420[m
+Author: Aman Agrawal <91116342+amanagrawal17@users.noreply.github.com>
+Date:   Thu Feb 8 12:25:37 2024 +0530
+
+    Create README.md
+
+[33mcommit c73dd9ba1994daa84481a479ae36028b550394bf[m
+Author: Aman <amanagrawal1782@gmail.com>
+Date:   Thu Feb 8 12:14:37 2024 +0530
+
+    initial commit
